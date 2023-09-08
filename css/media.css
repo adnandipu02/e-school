@@ -1,0 +1,240 @@
+@media (max-width:575px) {
+    header {
+        padding: 0 0;
+        background-color: #F0FFF0;
+    }
+    .logo {
+        width: 180px;
+    }
+    .menu ul li a {
+        padding: 0 15px !important;
+        margin-bottom: 5px;
+    }
+    /*Banner Start*/
+    .b_text {
+        text-align: center;
+    }
+    .b_heading {
+        padding: 0;
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .b_p2 {
+        padding: 0;
+        line-height: 30px;
+    }
+    .btn_link {
+        margin: 15px auto 0;
+    }
+    .b_img {
+        padding: 0;
+        margin-bottom: 20px;
+    }
+    .b_img img{
+        width: 100%;
+    }
+    /*Feature Start*/
+    .c_padd {
+        margin-bottom: 60px;
+    }
+    .s_feature{
+        margin-top: 24px;
+    }
+    .s_img {
+        width: 60px;
+        height: 70px;
+    }
+    /*Course start*/
+    .c_h1 {
+        font-size: 25px;
+    }
+    .c_item {
+        margin: 20px 0;
+        padding: 10px 10px 15px;
+    }
+    .c_h2 {
+        font-size: 20px;
+    }
+    .c_left ul li img, .c_left ul li img {
+        width: 18px !important;
+    } 
+    .c_left ul li span, .c_right ul li span {
+        font-weight: 400px;
+    }
+    .cli:not(:last-child) {
+        margin-right: 0;
+    }
+    /*Testimonial*/
+    .t_img {
+        margin-top: 20px;
+    }
+    .t_img img {
+        padding: 0 50px 20px;
+    }
+    .t_text p {
+        margin-top: 0;
+        text-align: center;
+    }
+    /*Footer Start*/
+    .footer_top{
+        text-align: center;
+        padding: 55px 0 15px;
+    }
+    .ft_details {
+        padding: 0;
+        margin-bottom: 40px;
+    }
+    .ft_links{
+        margin-bottom: 40px;
+    }
+}
+
+
+@media (min-width:576px) and (max-width:767px) {
+    header {
+        padding: 5px 0;
+        background-color: #F0FFF0;
+    }
+
+    .menu ul li a {
+        padding: 0 15px !important;
+        margin-bottom: 10px;
+    }
+     /*Banner Start*/
+    .b_text {
+        text-align: center;
+    }
+    .b_heading {
+        padding: 0 50px 0;
+        font-size: 35px;
+        line-height: 50px;
+    }
+    .b_p2 {
+        padding: 0 40px 0;
+        line-height: 30px;
+    }
+    .btn_link {
+        margin: 15px auto 0;
+    }
+    .b_img {
+        padding: 0 100px;
+        margin-bottom: 30px;
+    }
+    .b_img img{
+        width: 100%;
+    }
+    /*Feature Start*/
+    .c_padd {
+        margin-bottom: 60px;
+    }
+    .s_feature{
+        margin-top: 24px;
+    }
+    /*Course Start*/
+    .c_item {
+        margin: 30px 60px 0;
+        padding: 15px 15px 20px;
+    }
+    .c_h1 {
+        font-size: 30px;
+    }
+
+    /*Testimonial*/
+    .t_img {
+        margin-top: 30px;
+    }
+    .t_img img {
+        padding: 0 110px 20px;
+    }
+    .t_text p {
+        margin-top: 0;
+        text-align: center;
+    }
+     /*Footer Start*/
+     .footer_top{
+        text-align: center;
+    }
+    .ft_details {
+        padding: 0 70px;
+        margin-bottom: 40px;
+    }
+}
+
+@media (min-width:768px) and (max-width:991px) {
+    /*Header Start*/
+    .menu ul li a {
+        padding: 0 15px !important;
+        margin-bottom: 10px;
+    }
+    /*Banner Start*/
+    .b_text {
+        text-align: center;
+    }
+    .b_heading {
+        padding: 0 90px 0;
+    }
+    .b_p2 {
+        padding: 0 70px 0;
+    }
+    .btn_link {
+        margin: 15px auto 0;
+    }
+    .b_img {
+        padding: 0 100px;
+        margin-bottom: 30px;
+    }
+    .b_img img{
+        width: 100%;
+    }
+    /*Feature Start*/
+    .c_padd {
+        margin-bottom: 80px;
+    }
+    .s_feature{
+        margin-top: 24px;
+    }
+    /*Course Start*/
+    .c_item {
+        margin: 40px 100px;
+    }
+    /*Footer Start*/
+    .footer_top{
+        text-align: center;
+    }
+    .ft_details {
+        padding: 0 70px;
+        margin-bottom: 40px;
+    }
+}
+
+@media (min-width:992px) and (max-width:1199px) {
+    .b_heading{
+        padding-right: 30px;
+    }
+    /*Course start*/
+    .c_item {
+        padding: 24px 15px 30px;
+    }
+    .c_left ul li img, .c_left ul li img {
+        width: 18px !important;
+    } 
+    .c_left ul li span, .c_right ul li span {
+        font-weight: 400px;
+    }
+    .cli:not(:last-child) {
+        margin-right: 0;
+    }
+}
+@media (min-width:1200px) and (max-width:1399px) {
+    
+}
+@media (min-width:1400px){
+    .b_heading{
+        padding-right: 100px;
+    }
+    /*feature start*/
+    .s_feature{
+        padding: 65px 0 60px;
+}
+
+}
